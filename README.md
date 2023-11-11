@@ -31,7 +31,7 @@ This repository contains a dataset of UFO sightings scraped from [NUFORC](https:
 
 ## Changelog
 
-- **[Latest Entry]** Added the ufo_integration.R script to combine monthly CSV files (date: [11/10/2023]).
+- Added the ufo_integration.R script to combine monthly CSV files (date: [11/10/2023]).
 
 ## Notes
 
