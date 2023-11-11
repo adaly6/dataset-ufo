@@ -1,6 +1,6 @@
 # UFO Sightings Dataset
 
-This repository contains a dataset of UFO sightings scraped from [NUFORC]([https://nuforc.org/ndx/?id=event]) (National UFO Reporting Center). The dataset is compiled from multiple scripts and integrated into a comprehensive dataset.
+This repository contains a dataset of UFO sightings scraped from [NUFORC](https://nuforc.org/ndx/?id=event) (National UFO Reporting Center). The dataset is compiled from multiple scripts and integrated into a comprehensive dataset.
 
 ## Data Details
 
